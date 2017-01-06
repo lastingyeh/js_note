@@ -13,4 +13,4 @@ Test.assertEquals(titleCase(字串,條件) ,結果)
 
 ## 解決方式
 
-詳見 demo1.js
+詳見 demo.js
